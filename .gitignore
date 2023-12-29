@@ -1,0 +1,19 @@
+# Arquivos de compilação
+dist/
+build/
+node_modules/
+
+# Arquivos de configuração
+.env
+config.js
+
+# Arquivos temporários
+temp/
+*.tmp
+
+# Outros exemplos de padrões
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*~

@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  border: none;
+  outline: 2px solid transparent;
+  font-family: 'Poppins', sans-serif;
+  color: $white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: $neutral-100;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
